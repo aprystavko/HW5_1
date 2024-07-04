@@ -9,7 +9,7 @@ html {
 body {
     margin: 0 auto;
     max-width: 1440px;
-    font-family: 'Nunito';
+    font-family: 'Nunito', sans-serif;
     background-color: #F1F1F2;
 }
 
